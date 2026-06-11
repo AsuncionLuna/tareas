@@ -1,4 +1,4 @@
-## Proceso de la tarea: 
+## Tarea 3: comentarios
 
 * Realicé la visualización en formato de infografía sobre la identidad sonora del rock chileno.
 * Organicé la información en una estructura narrativa para una página web estática.
